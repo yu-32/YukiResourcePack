@@ -3,7 +3,7 @@
 テストも兼ねて作っています。時間ができ次第少しずつ更新します。  
 このリソースパックを使用するにはOptifineの導入が必要です。  
 対応Minecraftバージョンは1.12.2です。  
-最新版はhttps://github.com/yu-32/YukiResourcePack/releasesから閲覧可能です。
+最新版は[Github/releases](https://github.com/yu-32/YukiResourcePack/releases)から閲覧可能です。
 
 ### 遊び方
 
