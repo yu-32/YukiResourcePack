@@ -1,6 +1,6 @@
 # YukiResourcePack
 
-テストも兼ねて作っています。時間ができ次第少しずつ更新します。  
+テストも兼ねて作成しています。時間ができ次第少しずつ更新します。  
 このリソースパックを使用するにはOptifineの導入が必要です。  
 対応Minecraftバージョンは1.12.2です。  
 最新版は[Github/releases](https://github.com/yu-32/YukiResourcePack/releases)から閲覧、ダウンロード可能です。
