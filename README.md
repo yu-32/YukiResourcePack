@@ -5,6 +5,8 @@
 対応Minecraftバージョンは1.12.2です。  
 最新版は[Github/releases](https://github.com/yu-32/YukiResourcePack/releases)から閲覧、ダウンロード可能です。
 
+**必ず.zipで導入してください！！！**
+
 ### 遊び方
 
 松明に**tabacco**と名付ける。  
